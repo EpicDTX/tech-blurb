@@ -1,7 +1,7 @@
 {
-  "main.css": "/tech-blurb/static/css/main.7016719d.chunk.css",
-  "main.js": "/tech-blurb/static/js/main.27d09202.chunk.js",
-  "main.js.map": "/tech-blurb/static/js/main.27d09202.chunk.js.map",
+  "main.css": "/tech-blurb/static/css/main.4cd1e55f.chunk.css",
+  "main.js": "/tech-blurb/static/js/main.75941800.chunk.js",
+  "main.js.map": "/tech-blurb/static/js/main.75941800.chunk.js.map",
   "static/js/1.7fc5741d.chunk.js": "/tech-blurb/static/js/1.7fc5741d.chunk.js",
   "static/js/1.7fc5741d.chunk.js.map": "/tech-blurb/static/js/1.7fc5741d.chunk.js.map",
   "static/js/2.f61b54db.chunk.js": "/tech-blurb/static/js/2.f61b54db.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/tech-blurb/static/js/runtime~main.d72deb60.js",
   "runtime~main.js.map": "/tech-blurb/static/js/runtime~main.d72deb60.js.map",
   "static/media/logo.svg": "/tech-blurb/static/media/logo.06e73328.svg",
-  "static/css/main.7016719d.chunk.css.map": "/tech-blurb/static/css/main.7016719d.chunk.css.map",
+  "static/css/main.4cd1e55f.chunk.css.map": "/tech-blurb/static/css/main.4cd1e55f.chunk.css.map",
   "index.html": "/tech-blurb/index.html",
-  "precache-manifest.7fdd3f4e3bc3d221141d24a20f7fd120.js": "/tech-blurb/precache-manifest.7fdd3f4e3bc3d221141d24a20f7fd120.js",
+  "precache-manifest.c96fc587695e65127202e6e304d4e1d4.js": "/tech-blurb/precache-manifest.c96fc587695e65127202e6e304d4e1d4.js",
   "service-worker.js": "/tech-blurb/service-worker.js"
 }

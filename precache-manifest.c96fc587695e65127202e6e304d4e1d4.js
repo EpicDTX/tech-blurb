@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "27d09202a3765b6e2ae8",
-    "url": "/tech-blurb/static/css/main.7016719d.chunk.css"
+    "revision": "759418001305210d9a62",
+    "url": "/tech-blurb/static/css/main.4cd1e55f.chunk.css"
   },
   {
-    "revision": "27d09202a3765b6e2ae8",
-    "url": "/tech-blurb/static/js/main.27d09202.chunk.js"
+    "revision": "759418001305210d9a62",
+    "url": "/tech-blurb/static/js/main.75941800.chunk.js"
   },
   {
     "revision": "7fc5741dfb5d402e95fa",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/tech-blurb/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "3f57368854630f908fa38a03ecf892df",
+    "revision": "8171d41597263445407b414f90bd0985",
     "url": "/tech-blurb/index.html"
   }
 ];
