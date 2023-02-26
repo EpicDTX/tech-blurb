@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/tech-blurb/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "d0a3730c0ba2c571a860f30347d1980a",
+    "revision": "3f57368854630f908fa38a03ecf892df",
     "url": "/tech-blurb/index.html"
   }
 ];
