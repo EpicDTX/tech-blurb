@@ -1,9 +1,10 @@
-import "./app.css";
+import React from "react";
 import { Routes, Route } from "react-router-dom";
 import About from "./routes/About";
 import Careers from "./routes/Careers";
 import Home from "./routes/Home";
 import Navbar from "./components/Navbar";
+import "./app.css";
 
 function App() {
 	return (
