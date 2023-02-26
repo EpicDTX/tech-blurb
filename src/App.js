@@ -1,18 +1,18 @@
-import './app.css';
-import { Routes, Route} from "react-router-dom";
+import "./app.css";
+import { Routes, Route } from "react-router-dom";
 import About from "./routes/About";
 import Careers from "./routes/Careers";
 import Home from "./routes/Home";
-import Navbar from './Navbar';
+import Navbar from "./components/Navbar";
 
 function App() {
 	return (
 		<>
 			<Navbar />
 			<Routes>
-			<Route path="/" element={<Home />} />
-			<Route path="/about" element={<About />} />
-			<Route path="/careers" element={<Careers />} />
+				<Route path="/" element={<Home />} />
+				<Route path="/about" element={<About />} />
+				<Route path="/careers" element={<Careers />} />
 			</Routes>
 		</>
 	);
